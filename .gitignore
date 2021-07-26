@@ -1,3 +1,9 @@
+# Unnecessary files
+matplotlib_practice.ipynb
+errors.ipynb
+PyBer_ride_data.ipynb
+PyBer_Challenge_starter_code.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
